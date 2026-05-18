@@ -25,13 +25,3 @@ Hybrid-Selenium-QA-Project/
 └── pom.xml                # Project dependencies and compiler configuration
 ```
 
-## 🚀 How To Run The Automation
-1. Clone this repository to your local device.
-2. Open the project in IntelliJ IDEA.
-3. Ensure Maven dependencies are fully loaded via `pom.xml`.
-4. Navigate to `src/test/java/tests/LoginTest.java`.
-5. Right-click the `LoginTest` class name and select **Run 'LoginTest'** via TestNG.
-
-## 🤝 The Hybrid Approach Advantage
-* **The Automation Tester** handles execution speed, scale, and high-volume data validation via TestNG assertions.
-* **The Manual Tester** ensures automation isn't overlooking the core human element, visual layouts, and emotional user workflows.
